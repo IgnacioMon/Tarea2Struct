@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1541948956 source:c:\users\saloc\desktop\tarea de estructura\map.c
+	"Map.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+	<assert.h>
+
+1538512728 c:\users\saloc\desktop\tarea de estructura\map.h
+
+1571713544 source:c:\users\saloc\desktop\tarea de estructura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Map.h"
+
+1572217001 source:c:\users\luis\desktop\estructura de datos\tarea2nico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Map.h"
+
+1571761106 c:\users\luis\desktop\estructura de datos\tarea2nico\map.h
+
+1571761105 source:c:\users\luis\desktop\estructura de datos\tarea2nico\map.c
+	"Map.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+	<assert.h>
+
+1572204688 source:c:\users\lenovo\downloads\tarea2nico-20191214t010514z-001\tarea2nu\map.c
+	"Map.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+	<assert.h>
+
+1572204688 c:\users\lenovo\downloads\tarea2nico-20191214t010514z-001\tarea2nu\map.h
+
+1576291469 source:c:\users\lenovo\downloads\tarea2nico-20191214t010514z-001\tarea2nu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Map.h"
+
